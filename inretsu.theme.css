@@ -17,7 +17,6 @@ button {
 	--font-display: var(--font-primary) !important;
 	/* Dark Matter Variables */
 	--avatar-size: 32px;
-	--background-image: url(https://cdn.discordapp.com/attachments/615290573384974515/895547986325688342/329916.png);
 	/* --background-image: url(329916.png); */
 	--home-image: url('https://cdn.discordapp.com/attachments/714659773852811405/882970372054585344/12UpRGBscalettax4.000000.png');
 	--background-solid: #210000;
